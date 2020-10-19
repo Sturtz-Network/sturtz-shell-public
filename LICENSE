@@ -1,29 +1,22 @@
-BSD 3-Clause License
+Sturtz License 1
+	You are prohibited from making any forms of copies of any source code licensed under this license, without written permission from the owner or owners listed at the end of this license. If you get the written permission from the owner or owners NOT the Collaborators listed at the end of this license you are allowed to distribute any installation information as long as it does not give direct access to the source code or authorization keys, or passwords required to access the source code. You are allowed to share without written permission of the owner or owners listed at the end of this license, any methods or procedures required to install or execute this program. 
+	The owner or the owner listed at the end of this license is the owner of the name used at the end of this license as long as the name of the program listed at the end of this license, does not contradict any name for another program, copyrighted or not. The owner or owners listed at the end of this license have full copyright ownership to the name listed at the end of this license.  You may not use the name of this program or the name of the owners or collaborators listed at the end of this license without written permission from the owner or owners listed at the end of this license.  
+	If you are given permission to access the source code of the program.  You are prohibited from sharing any and all, access keys, passwords, and methods from accessing the source code. 
+	Any Collaborators listed at the end of this license are NOT owners but the owners with a written and a signed document may state that they are making a collaborator an owner, giving them full access to the source code. Collaborators may NOT share the source code nor share any   
+	This License does NOT make Sturtz Netowork a Collaborator or an owner unless Sturtz Network is listed in the following format.
+	After the date that this license takes effect, found at the end of this document, the owner or Collabraotrs CANNOT change this license to ANY OTHER LICENSE.  Besides an upgrade to a different Sturtz Network License.  You are also Prohibited from editing the text of this license except to add or edit the information below. 
+---------------------------------------------------------------------------------------------------------------------------------------------
+The Primary Name of this project is:
+	Sturtz Shell
+Other Names that this Project may be known as:
+	Sturtz Network Shell
+The Owners of the above software and source code are:
+Nathaniel Michael Sturtz <nate.sturtz@sturtz.ml>
+Sturtz Network <license@sturtz.ml, network@sturtz.ml>
+The Collaborators of this project are:
+	Sturtz Network <license@sturtz.ml, network@sturtz.ml>
+---------------------------------------------------------------------------------------------------------------------------------------------
 
-Copyright (c) 2020, Nathaniel Michael Sturtz
-All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
-
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
-
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
-
-3. Neither the name of the copyright holder nor the names of its
-   contributors may be used to endorse or promote products derived from
-   this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+This License is distributed by Sturtz Network on behalf of the owners. 
+Sturtz Network <license@sturtz.ml, network@sturtz.ml>
+©2020 Sturtz Network
